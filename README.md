@@ -22,4 +22,4 @@ Hi there, I'm Bhanu! 👋</h1>
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhanu08232005&show_icons=true&theme=radical" alt="Bhanu's GitHub Stats" />
-</p>
+
