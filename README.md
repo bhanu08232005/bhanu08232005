@@ -4,73 +4,69 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-LLM%20Apps-0A84FF?style=flat-square" alt="RAG and LLM apps" />
+  <img src="https://img.shields.io/badge/LLM%20Apps-AI-0A84FF?style=flat-square" alt="LLM apps" />
 </p>
 
-Computer Science student specializing in Artificial Intelligence, focused on building practical AI-powered applications and agent-based workflows.
+B.Tech in Computer Science and Engineering (Artificial Intelligence), graduating in 2028. Building practical skills toward AI Agent Engineer and Generative AI Engineer roles.
 
 ## About Me
 
-I am a B.Tech Computer Science and Engineering student with a specialization in Artificial Intelligence, building toward a career as an AI engineer. My interest lies in agentic AI, generative AI, and the development of reliable AI systems that combine reasoning, tools, and real-world data.
+I am a computer science student focused on AI and intelligent systems. My interests are centered on large language models, agentic workflows, retrieval systems, and practical AI application development.
 
-I am learning by building projects, testing ideas in code, and improving the foundations behind AI application development. My goal is to create useful, maintainable AI products that solve real problems rather than just showcase experiments.
+I am learning by building projects, testing ideas in code, and strengthening the foundations behind modern AI systems. My goal is to develop into a capable AI engineer who can design, build, and deploy useful AI-powered applications.
 
 ## Areas of Interest
 
-- Agentic AI and AI agents
-- Generative AI and LLM-powered applications
+- AI agents and agentic workflows
+- Generative AI and LLM applications
 - Retrieval-Augmented Generation (RAG)
-- AI application development and workflow automation
-- Practical ML/AI integration with Python and data-driven systems
+- Embeddings and vector-based retrieval
+- AI application development and automation
 
-## Technical Skills
+## Skills & Tools
 
 ### Programming
 - Python
 
-### Data and Analysis
+### Data
 - SQL
 - Pandas
 - NumPy
-
-### AI Development
-- LLM API integration
-- LangChain
-- Embeddings
-- Retrieval-Augmented Generation (RAG)
-- AI agents and agentic workflows
 
 ### Developer Tools
 - Git
 - GitHub
 
+### Currently Learning
+- LLM API integration
+- LangChain
+- Embeddings
+- RAG
+- AI agents
+
+I am continuing to improve my skills through hands-on learning and practical project work.
+
 ## Featured Projects
 
-This section is intentionally kept ready for future work.
+This section is prepared for future project work.
 
-When I have suitable projects, they will be presented here with:
+When suitable projects are ready, they will be presented here with:
 - Project name
 - Problem being solved
 - Solution and key features
 - Technologies used
-- Architecture or workflow
+- Workflow or architecture
 - Setup instructions
 - Screenshots or demos, when available
 - Current development status
 - Repository and live-demo links, when available
 
+No project links are included yet.
+
 ## Current Learning Direction
 
-I am strengthening my foundation in Python, data handling, AI application design, and LLM-based system building. My current focus is on learning practical workflows for integrating models, retrieval systems, and agent patterns into working applications.
+I am strengthening my foundations in Python, data handling, LLM integration, retrieval systems, and AI application design. My focus is on turning concepts into practical and maintainable AI systems.
 
-## Professional Links
+## Profiles
 
-- LinkedIn: To be added
-- Portfolio: To be added
-- Email: Not listed publicly
-
-## Current Status
-
-I am actively learning, building, and refining my AI engineering skills through hands-on projects and applied experimentation.
-
-> My aim is to grow into a capable AI engineer who can design, develop, and deploy useful AI-powered applications with a strong practical understanding of software engineering and AI systems.
+- GitHub: https://github.com/bhanu08232005
